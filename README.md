@@ -302,8 +302,4 @@ EV_TARIFF_OPTIMIZATION
 
 ---
 
-# 👩‍💻 Author
 
-**Radhika (24117101)**  
-B.Tech Mechanical Engineering  
-Indian Institute of Technology Roorkee
